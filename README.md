@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @santospt77
+- 👀 I’m interested in HTML & CSS, JavaScript, PHP, Lua, SQL
+- 🌱 I’m currently learning C, Python
